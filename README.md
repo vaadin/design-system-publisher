@@ -1,7 +1,8 @@
 # Design System Publisher
 
+> [!CAUTION]
+> As of November 2025, Design System Publisher has been discontinued. Existing installations continue to function, but updates from the Vaadin documentation git repository aren’t guaranteed to work with them. Support for new installations is eventually removed.
+
 This is repository for bug tickets and feature requests related to the Design System Publihser - a tool for creating a documentation website for your own Vaadin-based design system.
 
-You can read more about it on the Design System Publisher product page at https://vaadin.com/design-system-publisher.
-
-Documentation for the tool is available at https://vaadin.com/docs/latest/tools/dspublisher.
+Documentation is available at https://vaadin.com/docs/v24/tools/dspublisher.
